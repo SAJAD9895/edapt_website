@@ -99,8 +99,8 @@ export default function Hero() {
             transition={{ delay: 0.3, duration: 0.8 }}
             className="font-['Outfit'] font-black text-5xl md:text-6xl lg:text-6xl xl:text-7xl leading-tight mb-6"
           >
-            Personalized Learning{' '}
-            <span className="gradient-text text-glow">That Actually Works</span>
+            The tution you need{' '}
+            <span className="gradient-text text-glow">To improve your self</span>
           </motion.h1>
 
           <motion.p
